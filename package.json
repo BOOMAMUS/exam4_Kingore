@@ -1,5 +1,5 @@
 {
-  "name": "exam4_kingore",
+  "name": "exam4",
   "version": "1.0.0",
   "description": "ECHO is on.",
   "main": "chalkDemo.js",
@@ -81,7 +81,7 @@
     "url": "git+https://github.com/BOOMAMUS/exam4_Kingore.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Drennon Kingore",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
