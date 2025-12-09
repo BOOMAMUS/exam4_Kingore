@@ -73,8 +73,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node chalkDemo.js"
-    
+    "dev": "node chalkDemo.js",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
