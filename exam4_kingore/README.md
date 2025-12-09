@@ -7,6 +7,7 @@ GitHub repository inside of exam4_kingore folder runs the server http://localhos
 Git folder was initalized and worked correctly with the dependencies.
 
 npm run start
-npm run def
+npm run dev
 node chalkDemo.js
-All commands run with the command line prompt.
+node server.js
+All commands here run with the command line prompt.
